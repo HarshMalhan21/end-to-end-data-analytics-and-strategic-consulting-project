@@ -96,4 +96,3 @@ A streamlined, high-level interactive user interface built with advanced DAX ove
 
 ---
 
-*Developed as part of a data case study simulation by the Consulting & Analytics Club, IIT Guwahati.*
