@@ -81,7 +81,7 @@ A streamlined, high-level interactive user interface built with advanced DAX ove
 | Layer | Tools |
 |---|---|
 | Feature Engineering | Python, pandas |
-| Data Storage & Querying | SQL (PostgreSQL/MySQL), CTEs, Window Functions |
+| Data Storage & Querying | SQL (PostgreSQL), CTEs, Window Functions |
 | Visualization | Power BI, DAX |
 | Deliverables | Markdown strategic playbooks |
 
